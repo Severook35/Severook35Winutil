@@ -1,5 +1,16 @@
 {
- "WPFTweaksAH": {
+    "BraveStartUpPages": {
+      "Content": "Run PowerShell Script to Configure Brave Startup Pages",
+      "Description": "Executes a specified PowerShell script to configure Brave startup pages see the PS1 function app at the below github link to adjust.",
+      "category": "Script Execution",
+      "panel": "1",
+      "Order": "s001_",
+      "InvokeScript": [
+        "powershell.exe -Command \"Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/Severook35/Severook35Winutil/main/Config%20ps1%20files/configure_brave_startup.ps1' -OutFile '$env:TEMP\\configure_brave_startup.ps1'; powershell.exe -File '$env:TEMP\\configure_brave_startup.ps1'\""
+      ],
+      "link": "https://github.com/Severook35/Severook35Winutil"
+    },
+  "WPFTweaksAH": {
     "Content": "Disable Activity History",
     "Description": "This erases recent docs, clipboard, and run history.",
     "category": "Essential Tweaks",
