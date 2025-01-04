@@ -3143,14 +3143,6 @@
         "link": "https://www.twitch.tv/",
         "winget": "Twitch.Twitch"
     },
-    "EAApp": {
-        "category": "Games",
-        "choco": "ea-app",
-        "content": "EA App",
-        "description": "EA App - the PC platform for Electronic Arts games.",
-        "link": "https://www.ea.com/ea-app",
-        "winget": "ElectronicArts.EAApp"
-    },
     "GOGGalaxy": {
         "category": "Games",
         "choco": "gog-galaxy",
