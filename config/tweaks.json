@@ -1,4 +1,108 @@
 {
+  "BraveStartupPages": {
+  "Content": "Set Startup Pages",
+  "Description": "Sets the browser startup pages.",
+  "category": "Startup Tweaks",
+  "panel": "1",
+  "Order": "s001_",
+  "registry": [
+    {
+      "Path": "HKCU:\\Software\\BraveSoftware\\Brave-Browser\\Preference",
+      "Name": "startup_urls",
+      "Type": "MultiString",
+      "Value": [
+        "https://app.trading212.com/",
+        "https://www.youtube.com/",
+        "https://www.twitch.tv/",
+        "http://amazon.co.uk/"
+      ],
+      "OriginalValue": []
+    }
+  ],
+  "InvokeScript": [
+    "Set-ItemProperty -Path 'HKCU:\\Software\\BraveSoftware\\Brave-Browser\\Preference' -Name 'startup_urls' -Value 'https://app.trading212.com/','https://www.youtube.com/','https://www.twitch.tv/','http://amazon.co.uk/'"
+  ],
+  "UndoScript": [
+    "Remove-ItemProperty -Path 'HKCU:\\Software\\BraveSoftware\\Brave-Browser\\Preference' -Name 'startup_urls'"
+  ],
+  "link": "https://brave.com/"
+ },
+ "BetterTTV": {
+  "Content": "Install BetterTTV",
+  "Description": "Installs the BetterTTV extension.",
+  "category": "Extensions",
+  "panel": "1",
+  "Order": "e001_",
+  "extension_id": "ajopnjidmegmdimjlfnijceegpefgped",
+  "InvokeScript": [
+    "brave.exe --install-extension ajopnjidmegmdimjlfnijceegpefgped"
+  ],
+  "UndoScript": [
+    "brave.exe --uninstall-extension ajopnjidmegmdimjlfnijceegpefgped"
+  ],
+  "link": "https://betterttv.com/"
+ },
+ "Bitwarden Password Manager": {
+  "Content": "Install Bitwarden Password Manager",
+  "Description": "Installs the Bitwarden Password Manager extension.",
+  "category": "Extensions",
+  "panel": "1",
+  "Order": "e002_",
+  "extension_id": "nngceckbapebfimnlniiiahkandclblb",
+  "InvokeScript": [
+    "brave.exe --install-extension nngceckbapebfimnlniiiahkandclblb"
+  ],
+  "UndoScript": [
+    "brave.exe --uninstall-extension nngceckbapebfimnlniiiahkandclblb"
+  ],
+  "link": "https://bitwarden.com/"
+ },
+ "DarkMode - Night Eye": {
+  "Content": "Install DarkMode - Night Eye",
+  "Description": "Installs the DarkMode - Night Eye extension.",
+  "category": "Extensions",
+  "panel": "1",
+  "Order": "e003_",
+  "extension_id": "pnifibmhobonkjbgandfngjokmielkbh",
+  "InvokeScript": [
+    "brave.exe --install-extension pnifibmhobonkjbgandfngjokmielkbh"
+  ],
+  "UndoScript": [
+    "brave.exe --uninstall-extension pnifibmhobonkjbgandfngjokmielkbh"
+  ],
+  "link": "https://nighteye.app/"
+ },
+ "Grammarly": {
+  "Content": "Install Grammarly",
+  "Description": "Installs the Grammarly extension.",
+  "category": "Extensions",
+  "panel": "1",
+  "Order": "e004_",
+  "extension_id": "kbfnbcaeplbcioakkpcpgfkobkghlhen",
+  "InvokeScript": [
+    "brave.exe --install-extension kbfnbcaeplbcioakkpcpgfkobkghlhen"
+  ],
+  "UndoScript": [
+    "brave.exe --uninstall-extension kbfnbcaeplbcioakkpcpgfkobkghlhen"
+  ],
+  "link": "https://grammarly.com/"
+ },
+ "Quidco": {
+  "Content": "Install Quidco",
+  "Description": "Installs the Quidco extension.",
+  "category": "Extensions",
+  "panel": "1",
+  "Order": "e005_",
+  "extension_id": "lmhkpmbekcpmknklioeibfkpmmfibljd",
+  "InvokeScript": [
+    "brave.exe --install-extension lmhkpmbekcpmknklioeibfkpmmfibljd"
+  ],
+  "UndoScript": [
+    "brave.exe --uninstall-extension lmhkpmbekcpmknklioeibfkpmmfibljd"
+  ],
+  "link": "https://quidco.com/"
+ },
+
   "WPFTweaksAH": {
     "Content": "Disable Activity History",
     "Description": "This erases recent docs, clipboard, and run history.",
