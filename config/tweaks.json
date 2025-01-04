@@ -42,7 +42,7 @@
   ],
   "link": "https://betterttv.com/"
  },
- "Bitwarden Password Manager": {
+ "BitwardenPasswordManager": {
   "Content": "Install Bitwarden Password Manager",
   "Description": "Installs the Bitwarden Password Manager extension.",
   "category": "Extensions",
@@ -57,7 +57,7 @@
   ],
   "link": "https://bitwarden.com/"
  },
- "DarkMode - Night Eye": {
+ "DarkModeNightEye": {
   "Content": "Install DarkMode - Night Eye",
   "Description": "Installs the DarkMode - Night Eye extension.",
   "category": "Extensions",
