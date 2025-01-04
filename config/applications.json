@@ -3143,14 +3143,6 @@
         "link": "https://www.twitch.tv/",
         "winget": "Twitch.Twitch"
     },
-    "GOGGalaxy": {
-        "category": "Games",
-        "choco": "gog-galaxy",
-        "content": "GOG Galaxy",
-        "description": "GOG Galaxy - a fully optional client to install, play and update your games.",
-        "link": "https://www.gog.com/galaxy",
-        "winget": "GOG.Galaxy"
-    },
     "AmazonGames": {
         "category": "Games",
         "choco": "amazon-games",
