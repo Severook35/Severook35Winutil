@@ -3078,5 +3078,14 @@
         "description": "Amazon Games - a gaming platform by Amazon.",
         "link": "https://www.amazongames.com/",
         "winget": "Amazon.Games"
+    },
+    "ElgatoGameCaptureHD60S": {
+        "category": "Tools",
+        "choco": "elgato-gamecapture-hd60s",
+        "content": "Elgato Game Capture HD60S",
+        "description": "Elgato Game Capture HD60S - a high-definition game capture device for recording and streaming gameplay.",
+        "link": "https://www.elgato.com/en/gaming/game-capture-hd60-s",
+        "winget": "Elgato.GameCapture.HD60S"
     }
+
 }
