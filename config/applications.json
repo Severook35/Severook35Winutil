@@ -2935,30 +2935,6 @@
         "link": "https://git-fork.com/",
         "winget": "Fork.Fork"
     },
-    "TCHeliconGoXLR": {
-        "category": "Audio",
-        "choco": "tc-helicon-goxlr",
-        "content": "TC-Helicon GoXLR",
-        "description": "TC-Helicon GoXLR - driver and control app for the GoXLR device.",
-        "link": "https://www.tc-helicon.com/",
-        "winget": "TCHelicon.GoXLR"
-    },
-    "LaunchBox": {
-        "category": "Games",
-        "choco": "launchbox",
-        "content": "LaunchBox",
-        "description": "LaunchBox - a frontend for DOSBox, emulators, arcade cabinets, and PC Games.",
-        "link": "https://www.launchbox-app.com/",
-        "winget": "UnbrokenSoftware.LaunchBox"
-    },
-    "NvidiaApp": {
-        "category": "Graphics & Design",
-        "choco": "nvidia-app",
-        "content": "Nvidia App",
-        "description": "Nvidia App - control software for Nvidia graphics cards.",
-        "link": "https://www.nvidia.com/",
-        "winget": "Nvidia.NvidiaApp"
-    },
     "LogitechGHub": {
         "category": "System Utilities",
         "choco": "logitech-ghub",
@@ -2966,14 +2942,6 @@
         "description": "Logitech G Hub - control software for Logitech gaming devices.",
         "link": "https://www.logitechg.com/ghub",
         "winget": "Logitech.GHub"
-    },
-    "HuionTablet": {
-        "category": "Graphics & Design",
-        "choco": "huion-tablet",
-        "content": "Huion Tablet",
-        "description": "Huion Tablet - driver for Huion graphics tablets.",
-        "link": "https://www.huion.com/",
-        "winget": "Huion.HuionTablet"
     },
     "Grammarly": {
         "category": "Productivity",
@@ -2989,31 +2957,7 @@
         "content": "Bitdefender Total Security",
         "description": "Bitdefender Total Security - comprehensive security suite.",
         "link": "https://www.bitdefender.com/solutions/total-security.html",
-        "winget": "Bitdefender.TotalSecurity"
-    },
-    "DragonCenter": {
-        "category": "System Utilities",
-        "choco": "dragon-center",
-        "content": "Dragon Center",
-        "description": "Dragon Center - control and monitoring application for MSI products.",
-        "link": "https://www.msi.com/Landing/dragon-center-download",
-        "winget": "MSI.DragonCenter"
-    },
-    "AMDRyzenMasterSDK": {
-        "category": "Development",
-        "choco": "amd-ryzen-master-sdk",
-        "content": "AMD Ryzen Master SDK",
-        "description": "AMD Ryzen Master SDK - software development kit for AMD Ryzen processors.",
-        "link": "https://www.amd.com/en/technologies/ryzen-master",
-        "winget": "AMD.RyzenMasterSDK"
-    },
-    "MAudioMTrack": {
-        "category": "Audio",
-        "choco": "maudio-mtrack",
-        "content": "M-Audio M-Track",
-        "description": "M-Audio M-Track - driver for the M-Audio M-Track Solo and Duo.",
-        "link": "https://www.m-audio.com/",
-        "winget": "MAudio.MTrack"
+        "winget": "Bitdefender.Bitdefender"
     },
     "RuneScapeLauncher": {
         "category": "Games",
@@ -3021,23 +2965,15 @@
         "content": "RuneScape Launcher",
         "description": "RuneScape Launcher - launcher for the popular MMORPG RuneScape.",
         "link": "https://www.runescape.com/download",
-        "winget": "Jagex.RuneScapeLauncher"
+        "winget": "Jagex.Runescape"
     },
-    "PlayStationApp": {
+    "RuneLite": {
         "category": "Games",
-        "choco": "playstation-app",
-        "content": "PlayStation App",
-        "description": "PlayStation App - the app to connect to your PlayStation account.",
-        "link": "https://www.playstation.com/en-us/ps-app/",
-        "winget": "Sony.PlayStationApp"
-    },
-    "GOXLApp": {
-        "category": "Audio",
-        "choco": "goxl-app",
-        "content": "GOXL App",
-        "description": "GOXL App - audio driver and app for the GOXL devices.",
-        "link": "https://goxlr.com/",
-        "winget": "TCHelicon.GOXL"
+        "choco": "runelite",
+            "content": "RuneLite",
+        "description": "RuneLite - an open-source third-party client for Old School RuneScape.",
+        "link": "https://runelite.net/",
+        "winget": "RuneLite.RuneLite"
     },
     "EmbyTheater": {
         "category": "Multimedia",
@@ -3045,7 +2981,7 @@
         "content": "Emby Theater",
         "description": "Emby Theater - media player software to organize and stream personal media.",
         "link": "https://emby.media/theater",
-        "winget": "Emby.EmbyTheater"
+        "winget":  "Emby"
     },
     "FACEITAntiCheat": {
         "category": "Games",
@@ -3053,7 +2989,15 @@
         "content": "FACEIT Anti-Cheat",
         "description": "FACEIT Anti-Cheat - anti-cheat software for competitive gaming.",
         "link": "https://www.faceit.com/",
-        "winget": "FACEIT.AntiCheat"
+        "winget": "FACEITLTD.FACEITAC"
+    },
+    "FACEITClient": {
+        "category": "Games",
+        "choco": "faceit-Client",
+        "content": "FACEIT Client",
+        "description": "FACEIT Client - Client for anti-cheat software for competitive gaming.",
+        "link": "https://www.faceit.com/",
+        "winget": "FACEITLTD.FACEITClient"
     },
     "NordVPN": {
         "category": "Security",
@@ -3063,29 +3007,13 @@
         "link": "https://nordvpn.com/",
         "winget": "NordVPN.NordVPN"
     },
-    "MSISDK": {
-        "category": "Development",
-        "choco": "msi-sdk",
-        "content": "MSI SDK",
-        "description": "MSI SDK - software development kit for MSI products.",
-        "link": "https://www.msi.com/",
-        "winget": "MSI.SDK"
-    },
-    "BattleStateGamesLauncher": {
-        "category": "Games",
-        "choco": "battlestate-games-launcher",
-        "content": "Battle State Games Launcher",
-        "description": "Battle State Games Launcher - a launcher for Tarkov and other Battle State games.",
-        "link": "https://www.battlestategames.com/",
-        "winget": "BattleStateGames.Launcher"
-    },
     "EveOnlineLauncher": {
         "category": "Games",
         "choco": "eve-online-launcher",
         "content": "Eve Online Launcher",
         "description": "Eve Online Launcher - a launcher for the MMO space game.",
         "link": "https://www.eveonline.com/",
-        "winget": "CCP.EveOnlineLauncher"
+        "winget": "CCPGames.EVEOnline"
     },
     "PlayStationPlus": {
         "category": "Games",
@@ -3093,15 +3021,7 @@
         "content": "PlayStation Plus",
         "description": "PlayStation Plus - subscription service from PlayStation.",
         "link": "https://www.playstation.com/ps-plus/",
-        "winget": "Sony.PlayStationPlus"
-    },
-    "RockStarGameLauncher": {
-        "category": "Games",
-        "choco": "rockstar-game-launcher",
-        "content": "RockStar Game Launcher",
-        "description": "RockStar Game Launcher - the launcher for RockStar Games titles.",
-        "link": "https://www.rockstargames.com/",
-        "winget": "RockStarGames.Launcher"
+        "winget": "PlayStation.PSPlus"
     },
     "WargamingGameCenter": {
         "category": "Games",
@@ -3117,31 +3037,41 @@
         "content": "BlueStack",
         "description": "BlueStack - the best Android gaming platform for PC.",
         "link": "https://www.bluestacks.com/",
-        "winget": "BlueStack.BlueStack"
+        "winget": "BlueStack.BlueStacks"
     },
-    "RiotLauncher": {
+    "LeagueOfLegends.EUW": {
         "category": "Games",
-        "choco": "riot-launcher",
-        "content": "Riot Launcher",
-        "description": "Riot Launcher - the launcher for all Riot Games titles.",
-        "link": "https://www.riotgames.com/",
-        "winget": "RiotGames.RiotLauncher"
+        "choco": "LeagueOfLegends.EUW",
+        "content": "League of Legends (EUW Servers)",
+        "description": "League of Legends - a multiplayer online battle arena video game by Riot Games.",
+        "link": "https://www.riotgames.com/en/league-of-legends",
+        "winget": "RiotGames.LeagueOfLegends.EUW"
     },
+    "Valorant.EUW": {
+        "category": "Games",
+        "choco": "Valorant.EUW",
+        "content": "Valorant (EU Servers)",
+        "description": "Valorant - a tactical first-person shooter by Riot Games.",
+        "link": "https://www.riotgames.com/en/valorant",
+        "winget": "RiotGames.Valorant.EUW"
+     },
+    "LeaguesofRuneterra.Europe": {
+        "category": "Games",
+        "choco": "LeaguesofRuneterra.Europe",
+        "content": "Legends of Runeterra (Europe)",
+        "description": "Legends of Runeterra - a digital collectible card game by Riot Games.",
+        "link": "https://www.riotgames.com/en/legends-of-runeterra",
+        "winget": "RiotGames.LeaguesofRuneterra.Europe"
+        }
+    }
+    
     "HumbleBundleApp": {
         "category": "Games",
         "choco": "humble-bundle-app",
         "content": "Humble Bundle App",
         "description": "Humble Bundle App - a digital storefront for video games, books, and more.",
         "link": "https://www.humblebundle.com/",
-        "winget": "HumbleBundle.HumbleBundleApp"
-    },
-    "Twitch": {
-        "category": "Entertainment",
-        "choco": "twitch",
-        "content": "Twitch",
-        "description": "Twitch - a live streaming platform for gamers.",
-        "link": "https://www.twitch.tv/",
-        "winget": "Twitch.Twitch"
+        "winget": "HumbleBundle.HumbleApp"
     },
     "AmazonGames": {
         "category": "Games",
@@ -3149,14 +3079,6 @@
         "content": "Amazon Games",
         "description": "Amazon Games - a gaming platform by Amazon.",
         "link": "https://www.amazongames.com/",
-        "winget": "AmazonGames.AmazonGames"
-    },
-    "AffinityPhoto": {
-        "category": "Graphics & Design",
-        "choco": "affinity-photo",
-        "content": "Affinity Photo",
-        "description": "Affinity Photo - a professional photo editing software.",
-        "link": "https://affinity.serif.com/en-us/photo/",
-        "winget": "Serif.AffinityPhoto"
+        "winget": "Amazon.Games"
     }
 }
