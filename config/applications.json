@@ -3005,7 +3005,7 @@
         "content": "NordVPN",
         "description": "NordVPN - a VPN service for secure internet connection.",
         "link": "https://nordvpn.com/",
-        "winget": "NordVPN.NordVPN"
+        "winget": "NordSecurity.NordVPN"
     },
     "EveOnlineLauncher": {
         "category": "Games",
@@ -3045,7 +3045,7 @@
         "content": "League of Legends (EUW Servers)",
         "description": "League of Legends - a multiplayer online battle arena video game by Riot Games.",
         "link": "https://www.riotgames.com/en/league-of-legends",
-        "winget": "RiotGames.LeagueOfLegends.EUW"
+        "winget": "-e --id wingetRiotGames.LeagueOfLegends.EUW"
     },
     "ValorantEUW": {
         "category": "Games",
@@ -3053,7 +3053,7 @@
         "content": "Valorant (EU Servers)",
         "description": "Valorant - a tactical first-person shooter by Riot Games.",
         "link": "https://www.riotgames.com/en/valorant",
-        "winget": "RiotGames.Valorant.EUW"
+        "winget": "-e --id RiotGames.Valorant.EUW"
      },
     "LeaguesofRuneterraEurope": {
         "category": "Games",
@@ -3061,7 +3061,7 @@
         "content": "Legends of Runeterra (Europe)",
         "description": "Legends of Runeterra - a digital collectible card game by Riot Games.",
         "link": "https://www.riotgames.com/en/legends-of-runeterra",
-        "winget": "RiotGames.LeaguesofRuneterra.Europe"
+        "winget": "-e --id RiotGames.LeaguesofRuneterra.Europe"
     },
     "HumbleBundleApp": {
         "category": "Games",
