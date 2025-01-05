@@ -3061,7 +3061,7 @@
         "content": "Legends of Runeterra (Europe)",
         "description": "Legends of Runeterra - a digital collectible card game by Riot Games.",
         "link": "https://www.riotgames.com/en/legends-of-runeterra",
-        "winget": "riotGames.leaguesofruneterra.europe"
+        "winget": "riotgames.leaguesofruneterra.europe"
     },
     "HumbleBundleApp": {
         "category": "Games",
