@@ -3045,7 +3045,7 @@
         "content": "League of Legends (EUW Servers)",
         "description": "League of Legends - a multiplayer online battle arena video game by Riot Games.",
         "link": "https://www.riotgames.com/en/league-of-legends",
-        "winget": "RiotGames.LeagueOfLegends.EUW"
+        "winget": "riotGames.leagueoflegends.euw"
     },
     "ValorantEUW": {
         "category": "Games",
@@ -3053,7 +3053,7 @@
         "content": "Valorant (EU Servers)",
         "description": "Valorant - a tactical first-person shooter by Riot Games.",
         "link": "https://www.riotgames.com/en/valorant",
-        "winget": "RiotGames.Valorant.EUW"
+        "winget": "riotgames.valorant.eu"
      },
     "LeaguesofRuneterraEurope": {
         "category": "Games",
@@ -3061,7 +3061,7 @@
         "content": "Legends of Runeterra (Europe)",
         "description": "Legends of Runeterra - a digital collectible card game by Riot Games.",
         "link": "https://www.riotgames.com/en/legends-of-runeterra",
-        "winget": "RiotGames.LeaguesofRuneterra.Europe"
+        "winget": "riotGames.leaguesofruneterra.europe"
     },
     "HumbleBundleApp": {
         "category": "Games",
