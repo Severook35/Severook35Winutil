@@ -3039,7 +3039,7 @@
         "link": "https://www.bluestacks.com/",
         "winget": "BlueStack.BlueStacks"
     },
-    "LeagueOfLegends.EUW": {
+    "LeagueOfLegendsEUW": {
         "category": "Games",
         "choco": "LeagueOfLegends.EUW",
         "content": "League of Legends (EUW Servers)",
@@ -3047,7 +3047,7 @@
         "link": "https://www.riotgames.com/en/league-of-legends",
         "winget": "RiotGames.LeagueOfLegends.EUW"
     },
-    "Valorant.EUW": {
+    "ValorantEUW": {
         "category": "Games",
         "choco": "Valorant.EUW",
         "content": "Valorant (EU Servers)",
@@ -3055,7 +3055,7 @@
         "link": "https://www.riotgames.com/en/valorant",
         "winget": "RiotGames.Valorant.EUW"
      },
-    "LeaguesofRuneterra.Europe": {
+    "LeaguesofRuneterraEurope": {
         "category": "Games",
         "choco": "LeaguesofRuneterra.Europe",
         "content": "Legends of Runeterra (Europe)",
