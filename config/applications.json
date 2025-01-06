@@ -3102,7 +3102,16 @@
     "description": "Blizzard Battle.net - the launcher for Blizzard Entertainment games.",
     "link": "https://www.blizzard.com/en-us/",
     "winget": "Blizzard.BattleNet -e"
+    },
+    "AffinityPhoto2": {
+    "category": "Photo & video",
+    "choco": "affinity-photo-2",
+    "content": "Affinity Photo 2",
+    "description": "Affinity Photo 2 - a powerful photo editing software with a redesigned UI and new features for professional image editing.",
+    "link": "https://affinity.serif.com/en-gb/photo/",
+    "winget": "9P8DVF1XW02V --source msstore"
     }
+
 
 
 
