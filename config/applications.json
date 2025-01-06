@@ -3086,6 +3086,24 @@
         "description": "Elgato Game Capture HD60S - a high-definition game capture device for recording and streaming gameplay.",
         "link": "https://www.elgato.com/en/gaming/game-capture-hd60-s",
         "winget": "Elgato.GameCapture.HD60S"
+    },
+    "CorsairiCUE4": {
+    "category": "Tools",
+    "choco": "corsair-icue4",
+    "content": "Corsair iCUE 4",
+    "description": "Corsair iCUE 4 - a software that controls Corsair peripherals and components.",
+    "link": "https://www.corsair.com/us/en/icue",
+    "winget": "Corsair.iCUE.4"
+    },
+    "BlizzardBattleNet": {
+    "category": "Games",
+    "choco": "blizzard-battlenet",
+    "content": "Blizzard Battle.net",
+    "description": "Blizzard Battle.net - the launcher for Blizzard Entertainment games.",
+    "link": "https://www.blizzard.com/en-us/",
+    "winget": "Blizzard.BattleNet -e"
     }
+
+
 
 }
