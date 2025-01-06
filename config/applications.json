@@ -1717,7 +1717,7 @@
         "content": "Spotify",
         "description": "Spotify is a digital music service that gives you access to millions of songs, podcasts, and videos from artists all over the world.",
         "link": "https://www.spotify.com/",
-        "winget": "Spotify.Spotify"
+        "winget": "spotify.spotify"
     },
     "processmonitor": {
         "category": "Microsoft Tools",
@@ -3015,14 +3015,6 @@
         "link": "https://www.eveonline.com/",
         "winget": "CCPGames.EVEOnline"
     },
-    "PlayStationPlus": {
-        "category": "Games",
-        "choco": "playstation-plus",
-        "content": "PlayStation Plus",
-        "description": "PlayStation Plus - subscription service from PlayStation.",
-        "link": "https://www.playstation.com/ps-plus/",
-        "winget": "PlayStation.PSPlus"
-    },
     "WargamingGameCenter": {
         "category": "Games",
         "choco": "wargaming-game-center",
@@ -3094,14 +3086,6 @@
     "description": "Corsair iCUE 4 - a software that controls Corsair peripherals and components.",
     "link": "https://www.corsair.com/us/en/icue",
     "winget": "Corsair.iCUE.4"
-    },
-    "BlizzardBattleNet": {
-    "category": "Games",
-    "choco": "blizzard-battlenet",
-    "content": "Blizzard Battle.net",
-    "description": "Blizzard Battle.net - the launcher for Blizzard Entertainment games.",
-    "link": "https://www.blizzard.com/en-us/",
-    "winget": "Blizzard.BattleNet -e"
     },
     "AffinityPhoto2": {
     "category": "Photo & video",
