@@ -2975,14 +2975,6 @@
         "link": "https://runelite.net/",
         "winget": "RuneLite.RuneLite"
     },
-    "EmbyTheater": {
-        "category": "Multimedia",
-        "choco": "emby-theater",
-        "content": "Emby Theater",
-        "description": "Emby Theater - media player software to organize and stream personal media.",
-        "link": "https://emby.media/theater",
-        "winget":  "Emby"
-    },
     "FACEITAntiCheat": {
         "category": "Games",
         "choco": "faceit-anti-cheat",
@@ -3086,14 +3078,7 @@
     "description": "Corsair iCUE 4 - a software that controls Corsair peripherals and components.",
     "link": "https://www.corsair.com/us/en/icue",
     "winget": "Corsair.iCUE.4"
-    },
-    "AffinityPhoto2": {
-    "category": "Photo & video",
-    "choco": "affinity-photo-2",
-    "content": "Affinity Photo 2",
-    "description": "Affinity Photo 2 - a powerful photo editing software with a redesigned UI and new features for professional image editing.",
-    "link": "https://affinity.serif.com/en-gb/photo/",
-    "winget": "9P8DVF1XW02V --source msstore"
+
     }
 
 
